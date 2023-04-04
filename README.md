@@ -5,7 +5,7 @@ Adds multiple menus that are defined via yml and managed via the cms.
 ## Installation
 Composer is the recommended way of installing SilverStripe modules.
 ```
-composer require gorriecoe/silverstripe-menu
+composer require plato-creative/silverstripe-menu
 ```
 
 ## Requirements

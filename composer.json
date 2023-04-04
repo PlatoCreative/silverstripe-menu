@@ -1,5 +1,5 @@
 {
-  "name": "gorriecoe/silverstripe-menu",
+  "name": "plato-creative/silverstripe-menu",
   "description": "Adds multiple menus that are defined via yml and managed via the cms.",
   "type": "silverstripe-vendormodule",
   "license": "BSD-3-Clause",
@@ -7,6 +7,10 @@
     {
       "name": "Gorrie Coe",
       "email": "gorriecoe@gmail.com"
+    },
+    {
+      "name": "Plato Creative",
+      "email": "web@platocreative.co.nz"
     }
   ],
   "keywords": [
@@ -16,7 +20,7 @@
     "menu",
     "link"
   ],
-  "homepage": "http://github.com/gorriecoe/silverstripe-menu",
+  "homepage": "http://github.com/PlatoCreative/silverstripe-menu",
   "require": {
     "silverstripe/admin": "^1.0",
     "silverstripe/graphql": "^4.0.0",
