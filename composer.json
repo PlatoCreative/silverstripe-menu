@@ -27,6 +27,12 @@
     "symbiote/silverstripe-gridfieldextensions": "^3.1",
     "gorriecoe/silverstripe-link": "^1.1"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/PlatoCreative/silverstripe-menu"
+    }
+  ],
   "extra": {
     "installer-name": "menu"
   }
