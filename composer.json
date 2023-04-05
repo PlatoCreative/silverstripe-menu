@@ -20,7 +20,7 @@
     "menu",
     "link"
   ],
-  "homepage": "http://github.com/PlatoCreative/silverstripe-menu",
+  "homepage": "https://github.com/PlatoCreative/silverstripe-menu",
   "require": {
     "silverstripe/admin": "^1.0",
     "silverstripe/graphql": "^4.0.0",
